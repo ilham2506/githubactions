@@ -1,0 +1,10 @@
+.
+├── .github/
+│   └── workflows/
+│       ├── vpcdeploy.yml
+│       └── vpcdestroy.yml
+├── terraform/
+│   └── vpc/
+│       ├── main.tf
+│       └── outputs.tf
+├── README.md
